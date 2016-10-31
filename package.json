@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-crockford",
+  "version": "1.0.0",
+  "description": "A port of the JSCS Crockford config to eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gawkermedia/eslint-config-crockford.git"
+  },
+  "author": "Casey Speer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gawkermedia/eslint-config-crockford/issues"
+  },
+  "homepage": "https://github.com/gawkermedia/eslint-config-crockford#readme",
+  "devDependencies": {
+    "eslint": "^3.9.1"
+  },
+  "peerDependencies": {
+    "eslint": "^3.9.1"
+  }
+}
