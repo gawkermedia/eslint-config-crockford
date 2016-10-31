@@ -18,5 +18,5 @@ or, slightly more verbose:
 ```
 
 For more information see:
-[JSCS Crockford Preset](https://github.com/jscs-dev/node-jscs/blob/master/presets/crockford.json)
-[ESLint Sharable Configs](http://eslint.org/docs/developer-guide/shareable-configs)
+- [JSCS Crockford Preset](https://github.com/jscs-dev/node-jscs/blob/master/presets/crockford.json)
+- [ESLint Sharable Configs](http://eslint.org/docs/developer-guide/shareable-configs)
