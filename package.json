@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-crockford",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A port of the JSCS Crockford config to eslint",
   "main": "index.js",
   "scripts": {
