@@ -16,7 +16,11 @@ module.exports = {
 		'wrap-iife': 2,
 		'space-before-function-paren': [
 			2,
-			'always'
+			{
+				'anonymous': 'always',
+				'named': 'never',
+				'asyncArrow': 'ignore'
+			}
 		],
 		'one-var': [
 			2,
