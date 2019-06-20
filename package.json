@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/gawkermedia/eslint-config-crockford#readme",
   "devDependencies": {
-    "eslint": "^3.9.1"
+    "eslint": "^5.12.1"
   },
   "peerDependencies": {
-    "eslint": "^3.9.1"
+    "eslint": "^5.12.1"
   }
 }
