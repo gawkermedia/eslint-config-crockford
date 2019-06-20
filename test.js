@@ -1,7 +1,5 @@
-'use strict';
-
 const assert = require('assert');
-const eslint = require('eslint');
+const CLIEngine = require("eslint").CLIEngine;
 const conf = require('.');
 
 // Use the rules defined in this repo to test against.
@@ -12,4 +10,6 @@ const eslintOpts = {
 };
 
 // Ensure the config is valid
-assert.doesNotThrow(() => {eslint.CLIEngine(eslintOpts);});
+assert.doesNotThrow(() => {
+  const cli = new CLIEngine(eslintOpts);
+});
